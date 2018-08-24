@@ -1,0 +1,10 @@
+total 1
+male 2
+female 3
+
+total
+main
+marginal
+marginal_seeking
+nonworker
+nonworker_seeking
